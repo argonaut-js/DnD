@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -17,9 +17,11 @@
 * [[Lighthouse]]
 * [[Soggy&#39;s Mill]]
 * [[Juggerbuns]] 
+* [[Knights of the Post Annex]]
 
 [[Seacliff Forest]]
 
+[[Monastery]] 
 
 Characters
 [[Lootrin]]
@@ -47,12 +49,16 @@ Villagers
 [[Mathilda]]
 [[Gertrude]]
 [[Crustulum]]
+[[Buford T. Justice]]
+[[Stewie]]
+[[Huckleberry]]
 
 Monastery
 [[Bob]]
 [[Master Wu]]
 [[Astrid]]
 [[Scooter and Squirrelo]]
+[[Mentor]] 
 
 Backstory
 [[Lootara]]
@@ -132,7 +138,12 @@ Once betrothed to [[Uovazara]], he lots all standing in his clan when he forced 
 Young leader of Minotaur Island clan. Childhood sweetheat of [[Lootrin]], she was betrothed to [[Jarakar]] after Loot was lost at sea. After Loot&#39;s return and subsequent confrontation with Jarakar, she was forced to send him away. She then Spurned Jarakar and married [[Estenore]].</tw-passagedata><tw-passagedata pid="54" name="Estenore" tags="" position="852,516" size="100,100">Minotaur Chief&#39;s consort
 An upstanding member of the Minotaut Island clan. Married [[Uovazara]] after the incedent between [[Jarakar]] and [[Lootrin]] left her without a potential mate.</tw-passagedata><tw-passagedata pid="55" name="Briandil" tags="" position="1141,427" size="100,100">Aasimar Sorcerer,
 Silver Dragon blooded sorcerer, chosen of Bahamut. Came to [[Goblinroar Cove]] to live a quiet life as a potter.</tw-passagedata><tw-passagedata pid="56" name="Brenwyn" tags="" position="1116,641" size="100,100">Dwarf Bard
-Storyteller, historian and musician. Originally came to study with scholars at the [[Monastery]] </tw-passagedata></tw-storydata>
+Storyteller, historian and musician. Originally came to study with scholars at the [[Monastery]] with her [[Mentor]]</tw-passagedata><tw-passagedata pid="57" name="Mentor" tags="" position="1116,791" size="100,100">Dwarf Bard Historian
+Brenwyn&#39;s mentor, and ancient dwarf now living at the monastery studying history.
+</tw-passagedata><tw-passagedata pid="58" name="Knights of the Post Annex" tags="" position="1254,596" size="100,100">A small building on the edge of town, connected to a Halfling home. [[Huckleberry]] the postmaster lives and works here. Traveling Knights someimes stay here on their way to making deliveries to larger cities.</tw-passagedata><tw-passagedata pid="59" name="Buford T. Justice" tags="" position="1303,443" size="100,100">Dwarf Guard Captain
+Captain of exactly one guard, Buford is the law in town. Along with his trusty deputy [[Stewie]] he keeps the peace in [[Goblinroar Cove]]. During the pirate attack he tried to evacuate citizens while the PCs fought off the pirates. He now looks on our heros with a newfound respect.</tw-passagedata><tw-passagedata pid="60" name="Stewie" tags="" position="1413,445" size="100,100">Human Guard
+The only deputy of [[Buford T. Justice]] . A tall, gangly, awkward man who is always hungry.</tw-passagedata><tw-passagedata pid="61" name="Huckleberry" tags="" position="1366,596" size="100,100">Halfling Knight
+A super enthusiastic and hyper-organized knight of the post. Responible for all deliveries in [[Goblinroar Cove]], he knows everyone in town and where they are likely to be found.</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
