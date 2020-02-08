@@ -11,7 +11,7 @@
 
 <tw-story></tw-story>
 
-<tw-storydata name="D&amp;D" startnode="1" creator="Twine" creator-version="2.3.5" ifid="27D7312E-EDF9-4B21-840D-D3AB5637DFED" zoom="1" format="Harlowe" format-version="3.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Index" tags="" position="150,0" size="100,100">Locations
+<tw-storydata name="D&amp;D" startnode="1" creator="Twine" creator-version="2.3.5" ifid="27D7312E-EDF9-4B21-840D-D3AB5637DFED" zoom="0.6" format="Harlowe" format-version="3.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Index" tags="" position="150,0" size="100,100">Locations
 [[Goblinroar Cove]]
 * [[The Laughing Eel tavern]]
 * [[Lighthouse]]
@@ -52,6 +52,7 @@ Villagers
 [[Buford T. Justice]]
 [[Stewie]]
 [[Huckleberry]]
+[[Gethis]]
 
 Monastery
 [[Bob]]
@@ -59,6 +60,15 @@ Monastery
 [[Astrid]]
 [[Scooter and Squirrelo]]
 [[Mentor]] 
+
+Events
+[[pirate attack]]
+[[shipwreck]]
+
+Adversaries
+[[Rast]] 
+[[zombies]] 
+[[Black Dragon]] 
 
 Backstory
 [[Lootara]]
@@ -76,9 +86,7 @@ Backstory
 A small, but growing, Fishing village. Somewhere on the Sword Coast between the larger port cities. The [[Seacliff Forest]] runs up against the coast to the north of town. [[Esme the Witch]] has turned the old abandoned [[Lighthouse]] into a wizard tower. The functioning Lighthouse means that small trade ships sometimes land in town.
 [[The Laughing Eel tavern]] is the center of town.
 [[Soggy&#39;s Mill]] runs off the small river just south of town.</tw-passagedata><tw-passagedata pid="3" name="Header" tags="header" position="0,0" size="100,100">(print: (passage:)&#39;s name) 
-[[Index]] -----  [[Secrets]] |warn&gt;[ If you are a player don&#39;t click so you don&#39;t see any spoilers]
-(mouseover: &quot;Secrets&quot;)[(enchant: ?warn, (text-colour: red))]
-(mouseout: &quot;Secrets&quot;)[(enchant: ?warn, (text-colour: white))]
+[[Index]] 
 &lt;p&gt;</tw-passagedata><tw-passagedata pid="4" name="The Laughing Eel tavern" tags="" position="0,275" size="100,100">A Tavern in the middle of [[Goblinroar Cove]]. Well known public meeting place run by [[George the Tavernkeeper]]. Frequently employs [[Lootrin]] as a bouncer.</tw-passagedata><tw-passagedata pid="5" name="Lighthouse" tags="" position="100,275" size="100,100">Once abandoned, it is now converted into a wizard tower. 
 [[Esme the Witch]] lives here as well as [[Esme&#39;s cats]].
 [[Lootrin]] aso calls the lighthouse home now.</tw-passagedata><tw-passagedata pid="6" name="Seacliff Forest" tags="" position="125,125" size="100,100">A small wooded area, north of [[Goblinroar Cove]].
@@ -123,7 +131,7 @@ Last seen when [[Loot&#39;s old crew]] went their separate ways. A man of few wo
 A real dudebro from [[Loot&#39;s old crew]]. Always seen lifting a huge grimoire but never makes it to leg day.</tw-passagedata><tw-passagedata pid="40" name="First Sword Artooorru" tags="" position="1075,75" size="100,100">Aaracocra Fighter
 Captain of the Aaracocra military unit tasked with hunting down [[Boorhuu]]. A vengeful dudebro.</tw-passagedata><tw-passagedata pid="41" name="Amaya" tags="" position="1321,125" size="100,100">Human Noble.
 Left [[Goblinroar Cove]] to marry [[Garrick]] a rich nobleman.</tw-passagedata><tw-passagedata pid="42" name="Garrick" tags="" position="1319,17" size="100,100">Human Noble.
-Asshole</tw-passagedata><tw-passagedata pid="43" name="Juggerbuns" tags="" position="250,575" size="100,100">Bakery run by [[Spork]] </tw-passagedata><tw-passagedata pid="44" name="Monastery" tags="" position="300,275" size="100,100">A monastery dedicated to the goddess (Selune?), a short trip east of [[Goblinroar Cove]]. [[Master Wu]] is abbess and [[Reed]]&#39;s teacher. [[Astrid]] the astronomer and [[Bob]] the penguin Aaracocra can be found there.</tw-passagedata><tw-passagedata pid="45" name="Secrets" tags="" position="2,800" size="100,100">Adversaries
+Asshole</tw-passagedata><tw-passagedata pid="43" name="Juggerbuns" tags="" position="250,575" size="100,100">Bakery run by [[Spork]] </tw-passagedata><tw-passagedata pid="44" name="Monastery" tags="" position="300,275" size="100,100">A monastery dedicated to the goddess (Selune?), a short trip east of [[Goblinroar Cove]]. [[Master Wu]] is abbess and [[Reed]]&#39;s teacher. [[Astrid]] the astronomer and [[Bob]] the penguin Aaracocra can be found there.</tw-passagedata><tw-passagedata pid="45" name="notes" tags="" position="8,1002" size="100,100">Adversaries
 [[Aaracocra Military]]
 [[Dracolich Cult]]
 [[Northern Minotaurs]]
@@ -133,7 +141,7 @@ Asshole</tw-passagedata><tw-passagedata pid="43" name="Juggerbuns" tags="" posit
 Plots
 [[Dragon kidnappings]]
 [[Hunting the rebels]]
-</tw-passagedata><tw-passagedata pid="46" name="Aaracocra Military" tags="" position="0,950" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="47" name="Dracolich Cult" tags="" position="120,950" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="48" name="Northern Minotaurs" tags="" position="240,950" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="49" name="Spork&#39;s old Master" tags="" position="360,950" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="50" name="Dragon kidnappings" tags="" position="12,1077" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="51" name="Hunting the rebels" tags="" position="134,1076" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="52" name="Jarakar" tags="" position="597,511" size="100,100">Minotaur Warrior,
+</tw-passagedata><tw-passagedata pid="46" name="Aaracocra Military" tags="" position="6,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="47" name="Dracolich Cult" tags="" position="126,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="48" name="Northern Minotaurs" tags="" position="246,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="49" name="Spork&#39;s old Master" tags="" position="366,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="50" name="Dragon kidnappings" tags="" position="18,1279" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="51" name="Hunting the rebels" tags="" position="140,1278" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="52" name="Jarakar" tags="" position="597,511" size="100,100">Minotaur Warrior,
 Once betrothed to [[Uovazara]], he lots all standing in his clan when he forced a confrontation with [[Lootrin]]. The young Chieftain broke off their engagement after she had to send Loot away. Jarakar remains bitter and sullen.</tw-passagedata><tw-passagedata pid="53" name="Uovazara" tags="" position="720,380" size="100,100">Minotaur Chieftain,
 Young leader of Minotaur Island clan. Childhood sweetheat of [[Lootrin]], she was betrothed to [[Jarakar]] after Loot was lost at sea. After Loot&#39;s return and subsequent confrontation with Jarakar, she was forced to send him away. She then Spurned Jarakar and married [[Estenore]].</tw-passagedata><tw-passagedata pid="54" name="Estenore" tags="" position="852,516" size="100,100">Minotaur Chief&#39;s consort
 An upstanding member of the Minotaut Island clan. Married [[Uovazara]] after the incedent between [[Jarakar]] and [[Lootrin]] left her without a potential mate.</tw-passagedata><tw-passagedata pid="55" name="Briandil" tags="" position="1141,427" size="100,100">Aasimar Sorcerer,
@@ -143,7 +151,10 @@ Brenwyn&#39;s mentor, and ancient dwarf now living at the monastery studying his
 </tw-passagedata><tw-passagedata pid="58" name="Knights of the Post Annex" tags="" position="1254,596" size="100,100">A small building on the edge of town, connected to a Halfling home. [[Huckleberry]] the postmaster lives and works here. Traveling Knights someimes stay here on their way to making deliveries to larger cities.</tw-passagedata><tw-passagedata pid="59" name="Buford T. Justice" tags="" position="1303,443" size="100,100">Dwarf Guard Captain
 Captain of exactly one guard, Buford is the law in town. Along with his trusty deputy [[Stewie]] he keeps the peace in [[Goblinroar Cove]]. During the pirate attack he tried to evacuate citizens while the PCs fought off the pirates. He now looks on our heros with a newfound respect.</tw-passagedata><tw-passagedata pid="60" name="Stewie" tags="" position="1413,445" size="100,100">Human Guard
 The only deputy of [[Buford T. Justice]] . A tall, gangly, awkward man who is always hungry.</tw-passagedata><tw-passagedata pid="61" name="Huckleberry" tags="" position="1366,596" size="100,100">Halfling Knight
-A super enthusiastic and hyper-organized knight of the post. Responible for all deliveries in [[Goblinroar Cove]], he knows everyone in town and where they are likely to be found.</tw-passagedata></tw-storydata>
+A super enthusiastic and hyper-organized knight of the post. Responible for all deliveries in [[Goblinroar Cove]], he knows everyone in town and where they are likely to be found.</tw-passagedata><tw-passagedata pid="62" name="Gethis" tags="" position="37,861" size="100,100">Blue Dragonborn sailor
+Gethis was rescued from the [[shipwreck]], the only survivor of the crew. He now works on fishing boats in [[Goblinroar Cove]] while awaiting an opportunity to work on a bigger ship.</tw-passagedata><tw-passagedata pid="63" name="pirate attack" tags="" position="476,838" size="100,100">A large crew of pirates attacked [[Goblinroar Cove]] hoping to sack the town for some easy loot. While villagers fled and [[Buford T. Justice]] tried to organize an evacuation, our heros came together for the first time at the docks. Having all had the same idea, they proceded to absolutely destroy the raiding pirates. A celebration followed where they were recognized as heros of the town. Any surving pirates have carried the story that this fishing village is stronger than it seems.</tw-passagedata><tw-passagedata pid="64" name="shipwreck" tags="" position="17,727" size="100,100">a small merchant ship crashed into the rocky shore near [[Goblinroar Cove]] during a terrible storm. As the heros searched for survivors, they found the captain dead, mysterious [[zombies]] aboard, and a wounded [[Black Dragon]] who had apparently been kidnapped by the Drow Elf [[Rast]]. After defeating the Drow and his zombies, our heros fled the sinking ship, rescuing [[Gethis]] (and the captain&#39;s cashbox) and leaving the dragon to tend his own wounds.</tw-passagedata><tw-passagedata pid="65" name="zombies" tags="" position="315,820" size="100,100">[[Rast]] and his companions turned to zombies upon their deaths. Unlike normal zombies they spoke the phrase &#39;In death I serve&#39;. Anyone showing the zombies a dragon skull pendant was able to give them commands. </tw-passagedata><tw-passagedata pid="66" name="Black Dragon" tags="" position="217,702" size="100,100">Black Dragon Wyrmling
+This young Black dragon was found wounded in the hold of a [[shipwreck]] near [[Goblinroar Cove]]. He had been imprisoned in an iron box, kidnapped by [[Rast]] for some unknown purpose. After the ship went down he has not been seen again. his whereabouts are unknown.</tw-passagedata><tw-passagedata pid="67" name="Rast" tags="" position="202,819" size="100,100">Drow assassin
+Rast and his companions were transporting a kidnapped [[Black Dragon]] when the [[shipwreck]] happened. They each wore a mysterious dragon skull emblem on a pendant, and when killed they arose again as [[zombies]]. </tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
