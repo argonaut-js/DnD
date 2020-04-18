@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,19 +11,7 @@
 
 <tw-story></tw-story>
 
-<tw-storydata name="D&amp;D" startnode="1" creator="Twine" creator-version="2.3.5" ifid="27D7312E-EDF9-4B21-840D-D3AB5637DFED" zoom="0.6" format="Harlowe" format-version="3.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Index" tags="" position="150,0" size="100,100">Locations
-[[Goblinroar Cove]]
-* [[The Laughing Eel tavern]]
-* [[Lighthouse]]
-* [[Soggy&#39;s Mill]]
-* [[Juggerbuns]] 
-* [[Knights of the Post Annex]]
-
-[[Seacliff Forest]]
-
-[[Monastery]] 
-
-Characters
+<tw-storydata name="D&amp;D" startnode="1" creator="Twine" creator-version="2.3.7" ifid="27D7312E-EDF9-4B21-840D-D3AB5637DFED" zoom="0.6" format="Harlowe" format-version="3.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Index" tags="" position="150,0" size="100,100">Characters
 [[Lootrin]]
 [[Reed]]
 [[Spork]]
@@ -32,6 +19,21 @@ Characters
 [[Boorhuu]]
 [[Briandil]]
 [[Brenwyn]]
+
+Events
+[[pirate attack]]
+[[shipwreck]]
+[[sharptooth goblin raiders]]
+[[Expedition to the High Moors]]
+
+Locations
+[[Goblinroar Cove]]
+* [[The Laughing Eel tavern]]
+* [[Lighthouse]]
+* [[Soggy&#39;s Mill]]
+* [[Juggerbuns]] 
+* [[Knights of the Post Annex]]
+[[Seacliff Forest]]
 
 Villagers
 [[Esme the Witch]]
@@ -55,7 +57,8 @@ Villagers
 [[Huckleberry]]
 [[Gethis]]
 
-Monastery
+[[Monastery]] 
+
 [[Bob]]
 [[Master Wu]]
 [[Astrid]]
@@ -63,16 +66,33 @@ Monastery
 [[Aldreck Goldstring]] 
 [[Rusttrap D&#39;pencil]]
 
-Events
-[[pirate attack]]
-[[shipwreck]]
-[[sharptooth goblin raiders]]
+[[High Moors]] 
+[[Secomber]]
+* [[Black Palm Inn]]
+* [[Spoogum&#39;s general store]]
+* [[the old keep]]
+* [[Boringman farm]]
+
+[[Horris Sophisofable]]
+[[Spoogum]]
+[[Sir Amblin Flecator]]
+[[Queece Boringman]]
+[[Harv and Jeb Boringman]]
+[[Juice Matuse]] 
+
+[[Goblin caves]]
+
+[[Gremlin t. Squearfish]]
+[[Buckrain Politosh]]
+[[Dibbles]]
+[[the egg]] 
 
 Adversaries
 [[Rast]] 
 [[zombies]] 
 [[Black Dragon]] 
 [[Sharptooth goblin clan]]
+[[burning goblins]] 
 
 Backstory
 [[Lootara]]
@@ -164,9 +184,29 @@ Gethis was rescued from the [[shipwreck]], the only survivor of the crew. He now
 This young Black dragon was found wounded in the hold of a [[shipwreck]] near [[Goblinroar Cove]]. He had been imprisoned in an iron box, kidnapped by [[Rast]] for some unknown purpose. After the ship went down he has not been seen again. his whereabouts are unknown.</tw-passagedata><tw-passagedata pid="67" name="Rast" tags="" position="202,819" size="100,100">Drow assassin
 Rast and his companions were transporting a kidnapped [[Black Dragon]] when the [[shipwreck]] happened. They each wore a mysterious dragon skull emblem on a pendant, and when killed they arose again as [[zombies]]. </tw-passagedata><tw-passagedata pid="68" name="nomads" tags="" position="961,790" size="100,100">A huge trade caravan, almost a traveling city that makes a 5 year circular trip around the country. Run by a council of elders, they accept other travelers into their fold for as long as they need. [[Red Oak]] lived with them for many years before settling down in [[Seacliff Forest]] </tw-passagedata><tw-passagedata pid="69" name="Rusttrap D&#39;pencil" tags="" position="530,24" size="100,100">Goblin, Student
 Once a highwayman with the [[sharptooth goblin raiders]], Rusttrap surrendered after the defeat of Brokwin Thousandbabies and was granted clemency by the heroes. He now studies at the monastery to become a worthy member of the community and [[Goblinroar Cove]]&#39;s only actual Goblin.</tw-passagedata><tw-passagedata pid="70" name="sharptooth goblin raiders" tags="" position="1596,93" size="100,100">Lead by Brokwin Thousandbabies, this small splinter group of the [[Sharptooth goblin clan]] left their home in search of new hunting grounds after the chief of the clan became obsessed with a large mysterious egg. They built a hidden raiding camp in the hills near the road out of [[Goblinroar Cove]] and staged an ambush on a carriage belonging to [[Elmond]], a tax collector from Waterdeep.
-The heroes tracked the raiders to their hideout, defeating falling rock traps and guard wolves. In a firey battle the goblins were slain, except for [[Rusttrap D&#39;pencil]] who surrendered. The tax money was recovered and the heroes rewarded.</tw-passagedata><tw-passagedata pid="71" name="Sharptooth goblin clan" tags="" position="1731,98" size="100,100">Somewhere on the High Moor, this clan of goblins makes their home. They are known for the practice of filing their teeth sharp which gives them a nasty bite full of disease. While not as powerfull as the Orc and Hobgoblin clans of the area they are opportunistic bandits, known to ambush and kill travelers for supplies. Recent information from [[Rusttrap D&#39;pencil]] indicates that the clan has been through starnge changes lately and their chief has them worshiping a stange egg stolen from kobolds.</tw-passagedata><tw-passagedata pid="72" name="burning goblins" tags="" position="486,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="73" name="Geoff and Percival" tags="" position="673,916" size="100,100">Tiefling merchant, and his displacer beast.
+The heroes tracked the raiders to their hideout, defeating falling rock traps and guard wolves. In a firey battle the goblins were slain, except for [[Rusttrap D&#39;pencil]] who surrendered. The tax money was recovered and the heroes rewarded.</tw-passagedata><tw-passagedata pid="71" name="Sharptooth goblin clan" tags="" position="1731,98" size="100,100">Somewhere on the High Moor, this clan of goblins makes their home. They are known for the practice of filing their teeth sharp which gives them a nasty bite full of disease. While not as powerfull as the Orc and Hobgoblin clans of the area they are opportunistic bandits, known to ambush and kill travelers for supplies. Recent information from [[Rusttrap D&#39;pencil]] indicates that the clan has been through starnge changes lately and their chief has them worshiping a stange egg stolen from kobolds.</tw-passagedata><tw-passagedata pid="72" name="burning goblins" tags="" position="1700,850" size="100,100">Once known as the [[Sharptooth goblin clan]], The now &#39;burning&#39; goblins follow a new leader. The chief began worshiping and perhaps follwoing orders given to him by a mysterious egg found in some ancient ruins. [[the egg]] has since hatched and according to information from [[Buckrain Politosh]] a dragon now leads the clan. They have been raiding and taking much more food and other loot than usual.</tw-passagedata><tw-passagedata pid="73" name="Geoff and Percival" tags="" position="673,916" size="100,100">Tiefling merchant, and his displacer beast.
 Geoff arrived late to the Swords day festival in [[Goblinroar Cove]] and met the heroes as they returned from defeating the [[sharptooth goblin raiders]]. He is a travelling merchant of rare and unique magical items of dubious usefulness. His cart is pulled by Percival, a fearsome but docile displacer beast.</tw-passagedata><tw-passagedata pid="74" name="Elmond" tags="" position="1526,261" size="100,100">Human, commoner
-A tax collector for the lords of Waterdeep. Elmond was attacked by [[sharptooth goblin raiders]] on the road to [[Goblinroar Cove]] and his lockbox stolen. He enlisted the help of our heroes to retriev the tax money and is eternally greatful to them.</tw-passagedata></tw-storydata>
+A tax collector for the lords of Waterdeep. Elmond was attacked by [[sharptooth goblin raiders]] on the road to [[Goblinroar Cove]] and his lockbox stolen. He enlisted the help of our heroes to retriev the tax money and is eternally greatful to them.</tw-passagedata><tw-passagedata pid="75" name="Expedition to the High Moors" tags="" position="1710,366" size="100,100">Our heroes Traveled up the Trade Way in the company of [[Geoff and Percival]] and [[Elmond]], then parted ways to head to the town of [[Secomber]] on the edge of the [[High Moors]].
+Exploring the town tey bacame suspicious of [[Sir Amblin Flecator]] the captain fo the guard, chatted with [[Spoogum]], recovered a magic wand from [[Harv and Jeb Boringman]] and returned them to their father [[Queece Boringman]] before spending the night at [[Black Palm Inn]].
+Next morning the set out for [[Boringman farm]] where they discovered [[Juice Matuse]] investigating the goblins. Not trusting his story of wokring for a lord of waterdeep, they left him behind and tracked teh goblins to the [[Goblin caves]]. They witnessed a battle where a small group of kobolds was destroyed by the goblin guards, then set up an abush, destroying the guards themselves. [[Gremlin t. Squearfish]] the last remaining guard, was questioned, knocked out, and placed in a pit.
+Proceeding through the caves, they met [[Buckrain Politosh]] and [[Dibbles]] who told them the egg had hatched. The crew headed to the boss&#39;s chamber, defeated the goblins and took control of and ancient, damaged shield guardian.</tw-passagedata><tw-passagedata pid="76" name="Secomber" tags="" position="1750,500" size="100,100">Once a border fortress, destroyed during an ancient war, the town lies among the crumbling walls of the old fort now overrun with goats.
+The townsfolk keep an uneasy peace with the nomadic tribes of the [[High Moors]], sometime suffering raids and sometimes engaging in trade.
+[[Black Palm Inn]] is the only place for travelers to stay,
+[[Spoogum&#39;s general store]] is the largest business,
+and [[the old keep]] is the headquarters of the city watch.
+An ancient war machine remains stuck in a piece of the outter wall, and walking paths to the outlying farms pass through the many gaps in the old defenses.</tw-passagedata><tw-passagedata pid="77" name="Black Palm Inn" tags="" position="1875,500" size="100,100">The only Inn in [[Secomber]]. It is run by [[Horris Sophisofable]].
+A small but well kept establishment, it&#39;s menu consists mostly of goat.</tw-passagedata><tw-passagedata pid="78" name="Spoogum&#39;s general store" tags="" position="1975,500" size="100,100">The only real business of note in [[Secomber]]. Run by the gregarious lizardman [[Spoogum]], you can find most common goods and gossip here.</tw-passagedata><tw-passagedata pid="79" name="the old keep" tags="" position="2075,500" size="100,100">The only structure from the old fortress in [[Secomber]] that is still in use. The ground floor is the headquarters of the city watch, led by [[Sir Amblin Flecator]]. The upper floors are unusable, and the basement contains a myseterious locked door labled &#39;danger!&#39;</tw-passagedata><tw-passagedata pid="80" name="Boringman farm" tags="" position="2175,500" size="100,100">The furthest Farm outside of [[Secomber]]. It was overrun by a [[burning goblins]] raiding party. [[Queece Boringman]] and his sons [[Harv and Jeb Boringman]] escaped and took up residence in an abandoned house in town.
+When our heroes searched the farm they found [[Juice Matuse]] already there investigating.</tw-passagedata><tw-passagedata pid="81" name="Horris Sophisofable" tags="" position="1875,600" size="100,100">Dwarf, Innkeeper
+Horris is not unpleasent, but not above charging excesive rates to travelers if he can get away with it.</tw-passagedata><tw-passagedata pid="82" name="Spoogum" tags="" position="1975,600" size="100,100">Lizardman, Shopkeeper.
+This chatty Lizardman runs [[Spoogum&#39;s general store]]. He&#39;s good natured but loves to gossip and will tell you any rumors he&#39;s heard without even beeing asked. If you take what he says with a grain of salt he can be a good source of information.</tw-passagedata><tw-passagedata pid="83" name="Sir Amblin Flecator" tags="" position="2075,600" size="100,100">Human, Knight.
+Guard captain of the town of [[Secomber]], Amblin is wary and suspicious. He is certainly hiding something in the basement of [[the old keep]].
+He promises to reward the Heroes for information or help with the current goblin problem, and is very concerned about what influence [[the egg]] might have on them.</tw-passagedata><tw-passagedata pid="84" name="Queece Boringman" tags="" position="2175,700" size="100,100">Human, farmer.
+An ornery old farmer who lost his farm to a raid from the [[burning goblins]]. He is repairing an abandoned house in [[Secomber]] and taking out his frustrations by yelling at his sons [[Harv and Jeb Boringman]] </tw-passagedata><tw-passagedata pid="85" name="Harv and Jeb Boringman" tags="" position="2175,600" size="100,100">Human children.
+The sons of [[Queece Boringman]]. Harv and Jeb were found by the heroes on the outskirts of town, playing with and ancient wagic wand they found in a field. After confiscating the wand of fireballs, the heroes returned Harv and Jeb to their father in [[Secomber]].</tw-passagedata><tw-passagedata pid="86" name="Goblin caves" tags="" position="1800,750" size="100,100">Our heroes follwed the trail of the [[burning goblins]] to their cave hideout where they witnessed the defeat of some kobold raiders. Inside they defeated the guards and learned from [[Buckrain Politosh]] that [[the egg]] had hatched. They defeated the remaining goblins and their chief in the hoard chamber.</tw-passagedata><tw-passagedata pid="87" name="Gremlin t. Squearfish" tags="" position="1800,850" size="100,100">Goblin, guard.
+The only survivor of the guards at the [[Goblin caves]]. Gremlin was tied up, interrogated, and left in a pit by the heroes.</tw-passagedata><tw-passagedata pid="88" name="Buckrain Politosh" tags="" position="1900,850" size="100,100">Goblin, Elder.
+The oldest goblin in the [[Sharptooth goblin clan]], Buckrain has seen the clans fortunes rise and fall. He does not care for the current change in leadership, and is not interested in a loosing fight with adventurers. He let the heroes know about the situation and kept on cooking mysterious cave stew with his pet lizard [[Dibbles]] </tw-passagedata><tw-passagedata pid="89" name="Dibbles" tags="" position="2000,850" size="100,100">An unknown type of lizard, similar in appearance to an iguana the size of a large dog. [[Buckrain Politosh]]&#39;s companion, he seems friendly. </tw-passagedata><tw-passagedata pid="90" name="High Moors" tags="" position="1851,360" size="100,100">A harsh landscape full of dangerous swamps and bogs. This massive plateau was the site of many ancient wars and is dotted with mysterious ruins.
+Now home to nomadic tribes of Goblins and Orcs. The [[burning goblins]] live here.
+The western edge ends in a sheer cliff wall, atop which is the ruins of Dragonspear castle. The town of [[Secomber]], once a border fortress, is the only permanent settlement on the northern edge.</tw-passagedata><tw-passagedata pid="91" name="the egg" tags="" position="2000,1000" size="100,100">A mysterious egg found in some ancient ruins by the [[Sharptooth goblin clan]]. It has exerted some kind of influence on the chief who turned the clan towards some kind of fire worship, renaming them the [[burning goblins]]. According to [[Buckrain Politosh]] it has already hatched and some kind of dragon now holds sway over the goblins.</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
