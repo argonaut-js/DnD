@@ -56,9 +56,10 @@ Villagers
 [[Stewie]]
 [[Huckleberry]]
 [[Gethis]]
+[[Bub]]
 
 [[Monastery]] 
-
+Inhabitants
 [[Bob]]
 [[Master Wu]]
 [[Astrid]]
@@ -73,6 +74,7 @@ Villagers
 * [[the old keep]]
 * [[Boringman farm]]
 
+Inhabitants
 [[Horris Sophisofable]]
 [[Spoogum]]
 [[Sir Amblin Flecator]]
@@ -81,11 +83,16 @@ Villagers
 [[Juice Matuse]] 
 
 [[Goblin caves]]
-
+Inhabitants
 [[Gremlin t. Squearfish]]
 [[Buckrain Politosh]]
 [[Dibbles]]
 [[the egg]] 
+
+[[Ancient Ruins]]
+Inhabitants
+[[The dragon Frizzy Totay]] 
+[[Nogbone and Danky Politosh]]
 
 Adversaries
 [[Rast]] 
@@ -159,17 +166,19 @@ Last seen when [[Loot&#39;s old crew]] went their separate ways. A man of few wo
 A real dudebro from [[Loot&#39;s old crew]]. Always seen lifting a huge grimoire but never makes it to leg day.</tw-passagedata><tw-passagedata pid="40" name="First Sword Artooorru" tags="" position="1075,75" size="100,100">Aaracocra Fighter
 Captain of the Aaracocra military unit tasked with hunting down [[Boorhuu]]. A vengeful dudebro.</tw-passagedata><tw-passagedata pid="41" name="Amaya" tags="" position="1321,125" size="100,100">Human Noble.
 Left [[Goblinroar Cove]] to marry [[Garrick]] a rich nobleman.</tw-passagedata><tw-passagedata pid="42" name="Garrick" tags="" position="1319,17" size="100,100">Human Noble.
-Asshole</tw-passagedata><tw-passagedata pid="43" name="Juggerbuns" tags="" position="250,575" size="100,100">Bakery run by [[Spork]] </tw-passagedata><tw-passagedata pid="44" name="Monastery" tags="" position="300,275" size="100,100">A monastery dedicated to the goddess (Selune?), a short trip east of [[Goblinroar Cove]]. [[Master Wu]] is abbess and [[Reed]]&#39;s teacher. [[Astrid]] the astronomer and [[Bob]] the penguin Aaracocra can be found there.</tw-passagedata><tw-passagedata pid="45" name="notes" tags="" position="8,1002" size="100,100">Adversaries
+Asshole</tw-passagedata><tw-passagedata pid="43" name="Juggerbuns" tags="" position="250,575" size="100,100">Bakery run by [[Spork]] </tw-passagedata><tw-passagedata pid="44" name="Monastery" tags="" position="300,275" size="100,100">A monastery dedicated to the goddess (Selune?), a short trip east of [[Goblinroar Cove]]. [[Master Wu]] is abbess and [[Reed]]&#39;s teacher. [[Astrid]] the astronomer and [[Bob]] the penguin Aaracocra can be found there.</tw-passagedata><tw-passagedata pid="45" name="notes" tags="" position="0,1000" size="100,100">Adversaries
 [[Aaracocra Military]]
 [[Dracolich Cult]]
 [[Northern Minotaurs]]
 [[Spork&#39;s old Master]]
 [[Oracle of the Claw]] 
+[[The dragon Frizzy Totay]]
 
 Plots
 [[Dragon kidnappings]]
 [[Hunting the rebels]]
-[[burning goblins]]</tw-passagedata><tw-passagedata pid="46" name="Aaracocra Military" tags="" position="6,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="47" name="Dracolich Cult" tags="" position="126,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="48" name="Northern Minotaurs" tags="" position="246,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="49" name="Spork&#39;s old Master" tags="" position="366,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="50" name="Dragon kidnappings" tags="" position="18,1279" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="51" name="Hunting the rebels" tags="" position="140,1278" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="52" name="Jarakar" tags="" position="597,511" size="100,100">Minotaur Warrior,
+[[burning goblins]]
+[[seige of Secomber]]</tw-passagedata><tw-passagedata pid="46" name="Aaracocra Military" tags="" position="6,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="47" name="Dracolich Cult" tags="" position="126,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="48" name="Northern Minotaurs" tags="" position="246,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="49" name="Spork&#39;s old Master" tags="" position="366,1152" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="50" name="Dragon kidnappings" tags="" position="18,1279" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="51" name="Hunting the rebels" tags="" position="140,1278" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="52" name="Jarakar" tags="" position="597,511" size="100,100">Minotaur Warrior,
 Once betrothed to [[Uovazara]], he lots all standing in his clan when he forced a confrontation with [[Lootrin]]. The young Chieftain broke off their engagement after she had to send Loot away. Jarakar remains bitter and sullen.</tw-passagedata><tw-passagedata pid="53" name="Uovazara" tags="" position="720,380" size="100,100">Minotaur Chieftain,
 Young leader of Minotaur Island clan. Childhood sweetheat of [[Lootrin]], she was betrothed to [[Jarakar]] after Loot was lost at sea. After Loot&#39;s return and subsequent confrontation with Jarakar, she was forced to send him away. She then Spurned Jarakar and married [[Estenore]].</tw-passagedata><tw-passagedata pid="54" name="Estenore" tags="" position="863,522" size="100,100">Minotaur Chief&#39;s consort
 An upstanding member of the Minotaut Island clan. Married [[Uovazara]] after the incedent between [[Jarakar]] and [[Lootrin]] left her without a potential mate.</tw-passagedata><tw-passagedata pid="55" name="Briandil" tags="" position="1141,427" size="100,100">Aasimar Sorcerer,
@@ -206,7 +215,13 @@ The sons of [[Queece Boringman]]. Harv and Jeb were found by the heroes on the o
 The only survivor of the guards at the [[Goblin caves]]. Gremlin was tied up, interrogated, and left in a pit by the heroes.</tw-passagedata><tw-passagedata pid="88" name="Buckrain Politosh" tags="" position="1900,850" size="100,100">Goblin, Elder.
 The oldest goblin in the [[Sharptooth goblin clan]], Buckrain has seen the clans fortunes rise and fall. He does not care for the current change in leadership, and is not interested in a loosing fight with adventurers. He let the heroes know about the situation and kept on cooking mysterious cave stew with his pet lizard [[Dibbles]] </tw-passagedata><tw-passagedata pid="89" name="Dibbles" tags="" position="2000,850" size="100,100">An unknown type of lizard, similar in appearance to an iguana the size of a large dog. [[Buckrain Politosh]]&#39;s companion, he seems friendly. </tw-passagedata><tw-passagedata pid="90" name="High Moors" tags="" position="1851,360" size="100,100">A harsh landscape full of dangerous swamps and bogs. This massive plateau was the site of many ancient wars and is dotted with mysterious ruins.
 Now home to nomadic tribes of Goblins and Orcs. The [[burning goblins]] live here.
-The western edge ends in a sheer cliff wall, atop which is the ruins of Dragonspear castle. The town of [[Secomber]], once a border fortress, is the only permanent settlement on the northern edge.</tw-passagedata><tw-passagedata pid="91" name="the egg" tags="" position="2000,1000" size="100,100">A mysterious egg found in some ancient ruins by the [[Sharptooth goblin clan]]. It has exerted some kind of influence on the chief who turned the clan towards some kind of fire worship, renaming them the [[burning goblins]]. According to [[Buckrain Politosh]] it has already hatched and some kind of dragon now holds sway over the goblins.</tw-passagedata></tw-storydata>
+The western edge ends in a sheer cliff wall, atop which is the ruins of Dragonspear castle. The town of [[Secomber]], once a border fortress, is the only permanent settlement on the northern edge.</tw-passagedata><tw-passagedata pid="91" name="the egg" tags="" position="2000,1000" size="100,100">A mysterious egg found in some ancient ruins by the [[Sharptooth goblin clan]]. It has exerted some kind of influence on the chief who turned the clan towards some kind of fire worship, renaming them the [[burning goblins]]. According to [[Buckrain Politosh]] it has already hatched and some kind of dragon now holds sway over the goblins.</tw-passagedata><tw-passagedata pid="92" name="The dragon Frizzy Totay" tags="" position="1600,1000" size="100,100">Dragon (wyrmling?) of unknown origin
+Hatched from [[the egg]] found in the [[Ancient Ruins]] by the [[Sharptooth goblin clan]]. Frizzy Totay was named for a legendary goblin chief and assumed command of the clan. With the goblins worshiping him and calling themselves the [[burning goblins]], he sent them out to collect food and treasure for him while he retreated to the ruins to learn about his origins.
+Frizzy is an abnormal and curious dragon with the megalomaniac instincs of his kind but a strange nievete.
+The heroes encountered him in the ruins and he tried to recruit them to replace his chaotic goblin folowers, but they managed to convince him to seek out kobolds in the area.</tw-passagedata><tw-passagedata pid="93" name="Bub" tags="" position="1500,1100" size="100,100">Construct, Shield Guardian
+An ancient and damaged Shield guardian. Bub was recoverd from the [[burning goblins]] and repaired by the heroes with the help of a sealed magic laboratory in the [[Ancient Ruins]] </tw-passagedata><tw-passagedata pid="94" name="Ancient Ruins" tags="" position="1500,1000" size="100,100">An ancient keep, once used by a forgotten civilizations to create magical experiments and weapons of war. It is partially sinking into the moors and most of the building is damaged. However, a magically sealed room contains well preserved tools for the construction of golems and war machines.
+[[the egg]] was found here by the [[Sharptooth goblin clan]] and once [[The dragon Frizzy Totay]] hatched, he returned here to study and build his hoard.</tw-passagedata><tw-passagedata pid="95" name="Nogbone and Danky Politosh" tags="" position="1400,1100" size="100,100">Goblin Chefs
+The sons of [[Buckrain Politosh]] They run the kitchen in the [[Ancient Ruins]] </tw-passagedata><tw-passagedata pid="96" name="seige of Secomber" tags="" position="500,1150" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
